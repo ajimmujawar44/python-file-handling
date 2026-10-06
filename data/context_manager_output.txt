@@ -1,0 +1,2 @@
+Hello from the context manager!
+The file will be automatically closed.
